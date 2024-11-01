@@ -881,7 +881,7 @@ header {
 
     .img1 {
         position: absolute;
-        top: 210vh;
+        top: 190vh;
         height: 25vh;
         width: 70vw;
         
@@ -889,7 +889,7 @@ header {
 
     .img2 {
         position: absolute;
-        top: 260vh;
+        top: 220vh;
         width: 70vw;
         height: 25vh;
         left: 20vw;
@@ -901,21 +901,21 @@ header {
     
     .join-us {
         margin-top: 20vh;
-        margin-left: 30vw;
+        margin-left: 50vw;
         width: 90vw;
     }
 
     .join-img {
         height: auto;
         width: 120vw;
-        margin-left: -10vw;
+        margin-left: -12vw;
     }
 
     .box-goodpoints {
-        top: 380vh;
+        top: 320vh;
         width: 150vw;
         height: 27vh;
-        left: 8vw;
+        left: 25vw;
 
     }
 
@@ -943,7 +943,7 @@ header {
 
     .price {
         margin-top: 40vh;
-        margin-left: 30vw;
+        margin-left: 50vw;
         width: 90vw;
     }
 
@@ -963,15 +963,15 @@ header {
     }
 
     .basic-plan {
-        width: 30vw;
+        width: 40vw;
     }
 
     .weekly-plan {
-        width: 30vw;
+        width: 40vw;
     }
 
     .monthly-plan {
-        width: 30vw;
+        width: 40vw;
     }
 
     .basic-plan > h3, .weekly-plan h3, .monthly-plan h3 {
@@ -1001,7 +1001,7 @@ header {
 
     .monthly-plan > .btn-join {
         width: 30vw;
-        margin-top: -1vh;
+        margin-top: 0vh;
 
     }
 
@@ -1012,7 +1012,7 @@ header {
 
     .aspas-icon {
         left: 10vw;
-        top: 535vh;
+        top: 470vh;
     }
 
     .rating-stars{
@@ -1022,16 +1022,16 @@ header {
 
     .user-img {
         left: 40vw;
-        top: 572vh;
+        top: 497vh;
     }
 
     .review > h3, .review h4 {
-        margin-left: 51vw;
+        margin-left: 52vw;
         margin-top: 3vh;
     }
 
     .end {
-        margin-top: 85vh;
+        margin-top: 33vh;
         left: 2vw;
         width: 60vw;
     }
